@@ -46,10 +46,10 @@ const SITE = {
     {q:"Hiç bilgim yok, katılabilir miyim?", a:"Evet. Başlangıç seviyesinden anlatıyoruz."}
   ],
   team: [                                           // img: fotoğraf yolu (boşsa baş harfler görünür). Boş bıraktığın bağlantı gösterilmez.
-    {name:"Melike Gümüş", role:"Kulüp Başkanı", bio:"Kulübün genel koordinasyonundan ve dönem planından sorumlu.", img:"./images/teams/baskan.png", linkedin:"https://linkedin.com/in/", github:"https://github.com/", mail:"ornek@mail.com"},
-    {name:"Nehir Kartaloğlu", role:"Başkan Yardımcısı", bio:"Topluluk iletişimi ve ekip çalışmalarını yürütür.", img:"./images/teams/baskanyardimci.png", linkedin:"https://linkedin.com/in/", github:"https://github.com/", mail:"ornek@mail.com"},
-    {name:"Samed Özdemir", role:"Etkinlik Sorumlusu", bio:"Workshop, seminer ve yarışmaların organizasyonunu üstlenir.", img:"./images/teams/samed.png", linkedin:"https://linkedin.com/in/", github:"https://github.com/", mail:"ornek@mail.com"},
-    {name:"Hamza Çakır", role:"Teknik Sorumlu", bio:"Teknik eğitimler ve CTF içerikleri üzerinde çalışır.", img:"./images/teams/hamza.png", linkedin:"https://linkedin.com/in/", github:"https://github.com/", mail:"ornek@mail.com"}
+    {name:"Melike Gümüş", role:"Kulüp Başkanı", bio:"Kulübün genel koordinasyonundan ve dönem planından sorumlu.", img:"./images/Teams/baskan.png", linkedin:"https://linkedin.com/in/", github:"https://github.com/", mail:"ornek@mail.com"},
+    {name:"Nehir Kartaloğlu", role:"Başkan Yardımcısı", bio:"Topluluk iletişimi ve ekip çalışmalarını yürütür.", img:"./images/Teams/baskanyardimci.png", linkedin:"https://linkedin.com/in/", github:"https://github.com/", mail:"ornek@mail.com"},
+    {name:"Samed Özdemir", role:"Etkinlik Sorumlusu", bio:"Workshop, seminer ve yarışmaların organizasyonunu üstlenir.", img:"./images/Teams/samed.png", linkedin:"https://linkedin.com/in/", github:"https://github.com/", mail:"ornek@mail.com"},
+    {name:"Hamza Çakır", role:"Teknik Sorumlu", bio:"Teknik eğitimler ve CTF içerikleri üzerinde çalışır.", img:"./images/Teams/hamza.png", linkedin:"https://linkedin.com/in/", github:"https://github.com/", mail:"ornek@mail.com"}
   ]
 };
 /* ===== AYARLAR BİTTİ ===== */
